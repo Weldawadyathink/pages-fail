@@ -5,3 +5,5 @@ This is a minimal project to recreate random generation failures for a static si
 Default project created with "pnpm dlx nuxi@latest init pages-fail". Succeeded 100/100 times. This is the expected result.
 
 Added nitro preset for cloudflare-pages. Succeeded 100/100 times.
+
+Installed wrangler. Succeeded 100/100 times.
